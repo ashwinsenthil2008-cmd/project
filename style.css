@@ -1,0 +1,13 @@
+ul,li,h1,nav{
+    display: inline-block;
+    background-color: brown;
+}
+.one{
+    display: block;
+}
+ul{
+    padding-left: 60%;
+}
+body{
+    background-image: url(travel photo.jpg);
+}
